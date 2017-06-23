@@ -34,3 +34,16 @@
 }
 
 /* Place your styles below this line */
+
+
+#candy {
+  background-image: url('https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
